@@ -1,10 +1,9 @@
 pandas
 numpy
 scikit-learn
-xgboost
-plotly
-seaborn
 matplotlib
-streamlit
-shap
+seaborn
+plotly
 jupyter
+notebook
+unidecode
