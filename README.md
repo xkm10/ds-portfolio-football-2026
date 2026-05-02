@@ -185,7 +185,7 @@ The project could be improved by:
 notebooks/ Full analysis workflow
 visuals/ Exported charts for portfolio presentation
 data/ Sample output files only
-reports/ Supporting documentation
+
 
 ---
 
