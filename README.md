@@ -5,7 +5,7 @@ This project uses 2025/26 football player performance data from Europe’s top f
 
 The model compares a player's actual market value with a predicted value based on statistical performance. Players whose predicted value is higher than their actual value are treated as possible undervaluation candidates.
 
-## Business Problem
+##  Problem
 Football clubs often overpay for high-profile players while missing lower-cost players with strong statistical profiles. This project explores whether data science can support scouting decisions by identifying players whose performance suggests a higher market value than their current valuation.
 
 ## Dataset
