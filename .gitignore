@@ -1,1 +1,15 @@
+data/*.csv
+data/raw/
+data/processed/
+*.csv
 
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+.venv/
+env/
+*.env
+
+*.pkl
+*.joblib
