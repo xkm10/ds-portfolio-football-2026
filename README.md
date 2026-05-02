@@ -32,27 +32,65 @@ The project uses:
 
 ## Key Visuals
 
-### Actual vs Predicted Market Value
+### Model Performance
+
+#### Actual vs Predicted Market Value
 ![Actual vs Predicted](visuals/actual_vs_predicted.png)
 
-### Top Undervalued Players by Absolute Gap
+---
+
+### Undervalued Players
+
+#### Top Undervalued Players by Absolute Gap
 ![Top Undervalued Gap](visuals/top_undervalued_gap.png)
 
-### Top Undervalued Players by Percentage Gap
+#### Top Undervalued Players by Percentage Gap
 ![Top Undervalued Percentage](visuals/top_undervalued_pct.png)
 
-### Market Value Distribution
+---
+
+### Distributions
+
+#### Market Value Distribution
 ![Market Value Distribution](visuals/market_value_distribution.png)
 
-### Undervaluation Gap Distribution
+#### Undervaluation Gap Distribution
 ![Undervaluation Gap Distribution](visuals/undervaluation_gap_distribution.png)
 
-### Average Undervaluation Gap by Position
-![Position Gap](visuals/position_gap.png)
+---
 
-### Average Undervaluation Gap by League
-![League Gap](visuals/league_gap.png)
+### Position Analysis
 
+#### Top Undervalued Goalkeepers
+![GK](visuals/top_undervalued_GK.png)
+
+#### Top Undervalued Defenders
+![DEF](visuals/top_undervalued_DEF.png)
+
+#### Top Undervalued Midfielders
+![MID](visuals/top_undervalued_MID.png)
+
+#### Top Undervalued Forwards
+![FWD](visuals/top_undervalued_FWD.png)
+
+---
+
+### League Analysis
+
+#### Premier League
+![Premier League](visuals/top_undervalued_eng_Premier_League.png)
+
+#### La Liga
+![La Liga](visuals/top_undervalued_es_La_Liga.png)
+
+#### Serie A
+![Serie A](visuals/top_undervalued_it_Serie_A.png)
+
+#### Bundesliga
+![Bundesliga](visuals/top_undervalued_de_Bundesliga.png)
+
+#### Ligue 1
+![Ligue 1](visuals/top_undervalued_fr_Ligue_1.png)
 ## Repository Structure
 ```text
 notebooks/   Full analysis workflow
